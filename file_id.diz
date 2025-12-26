@@ -1,0 +1,22 @@
+CEO Christmas Star 2025
+
+Author: DidierV / CEO (Club Europe Oric)
+Category: Christmas Challenge
+System: Oric Atmos
+Language: BASIC
+Len source code: 684 bytes
+Len exe file: 573 bytes
+Instructions: 
+- get emulator ORICUTRON
+- unzip, launch ORICUTRON.EXE
+- right click on screen, choose Insert tape in the menu
+- Choose VCCC2025.tap
+- Type command :
+	CLOAD ""
+    	CLS
+    	RUN
+- that's all !
+Description:
+Star is build by the center dans it generates 8 branches with special artefacts depending on the incrementation.
+Comments:
+I'm very happy to participate with this challenge, back to the basics
